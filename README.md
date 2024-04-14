@@ -9,7 +9,8 @@
 ### Tecnologias que estou estudando
  ![Tec](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Tec](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Tec](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaaro01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaaro01&layout=compact&&count=5)
+
 
 <!---
 lazaaro01/lazaaro01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
