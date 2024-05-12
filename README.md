@@ -4,7 +4,7 @@
 - Analista de Sistemas
 
 <div style="display: inline_block"><br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,mysql,cpp,html,css,typescript,js" />
   </a>
