@@ -11,7 +11,7 @@
 
  ## Hobbies 
 
- Gosto de fazer projetos simples no arduino usando o tinkercad. No meu tempo livre gosto de jogar, ler, assistir ou escrever.
+ Gosto de fazer projetos simples no arduino usando o tinkercad. No meu tempo livre gosto de me conectar ao mundo real, saindo um pouco de casa indo na praia ou em lugares calmos onde eu possa ler.
  ##
  ## Para me conhcer melhor!
 
