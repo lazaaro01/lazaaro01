@@ -1,12 +1,11 @@
 ## Lázaro Vasconcelos | Desenvolvedor de Software.
 - Desenvolvimento Backend
-- Desenvolvimento Frontend
 - Analista de Sistemas
 
 <div style="display: inline_block"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,cpp,html,css,typescript,js" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,cpp,typescript,js" />
   </a>
 </p>
 
