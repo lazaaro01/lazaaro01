@@ -4,14 +4,11 @@
 - Analista de Sistemas
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
- <img align="center" alt="Python" width="40" src="Python-Dark.">
-<img align="center" alt="MySQL" width="40" src="MySQL-Dark.svg">
-<img align="center" alt="C++" width="40" src="C++.svg">
-<img align="center" alt="Html" width="40" src="HTML.svg">
-<img align="center" alt="Css" width="40" src="CSS.svg">
-<img align="center" alt="TypeScript" width="40" src="TypeScript.svg">
-<img align="center" alt="JavaScript" width="40" src="JavaScript.svg">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,cpp,html,css,typescript,js" />
+  </a>
+</p>
 
  ## Hobbies 
 
