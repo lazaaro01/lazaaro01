@@ -10,6 +10,12 @@
 </p>
 
  ## Hobbies 
+ 
+ 
+  ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Technology+Lover!)](https://git.io/typing-svg)
+ 
 
  Gosto de fazer projetos simples no arduino usando o tinkercad. No meu tempo livre gosto de me conectar ao mundo real, saindo um pouco de casa indo na praia ou em lugares calmos onde eu possa ler.
  ##
