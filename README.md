@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,react,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,react,js" />
   </a>
 </p>
  
