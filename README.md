@@ -8,9 +8,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,react,js,cpp" />
   </a>
 </p>
-
- ## Hobbies 
- 
  
   ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
