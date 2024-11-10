@@ -1,17 +1,44 @@
-## Lázaro Vasconcelos | Desenvolvedor de Software.
+## Lázaro Vasconcelos
+### Desenvolvedor de Software | Desenvolvedor Web | Analista de Sistemas
+- Desenvolvimento Frontend
 - Desenvolvimento Backend
 - Analista de Sistemas
+- QA às vezes
 
-<div style="display: inline_block"><br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,react,js" />
-  </a>
-</p>
-  
-   ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Technology+Lover!)](https://git.io/typing-svg)
- ##
+![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
+
+---
+<h4>Tecnologias que já experenciei </h4>
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+  <img align="center" alt="Ts" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg">
+  <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
+  <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+  <img align="center" alt="Vue" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" />
+ 
+                     
+</div>
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
+  <img align="center" alt="Spring" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" />
+  <img align="center" alt="React" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"/>
+  <img align="center" alt="Python" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+  <img align= "center" alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
+</div>
+<br>
+<h4>Estou estudando no momento 📖 </h4>
+
+- React
+- Java
+- Spring Boot
+- Express.js
+
+---
+
  ## Para me conhcer melhor!
 
  <div>
