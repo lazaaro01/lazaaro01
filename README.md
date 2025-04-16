@@ -38,7 +38,8 @@
 - Java
 - Spring Boot
 - Express.js
-
+- Docker
+- AWS
 ---
 
  ## Para me conhcer melhor!
