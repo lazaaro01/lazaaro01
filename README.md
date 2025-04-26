@@ -3,7 +3,6 @@
 - Desenvolvimento Frontend
 - Desenvolvimento Backend
 - Analista de Sistemas
-- QA às vezes
 
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
