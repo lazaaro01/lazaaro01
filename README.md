@@ -3,7 +3,7 @@
 - Desenvolvimento Frontend
 - Desenvolvimento Backend
 - Analista de Sistemas
-
+- QA às vezes
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
