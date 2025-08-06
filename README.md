@@ -9,7 +9,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
 
 ---
-## Minhas Stacks:
+## 👾 Minhas Stacks:
 Tecnologias que já experenciei:
 
 ### 🌐 Frontend:
@@ -41,6 +41,7 @@ Tecnologias que já experenciei:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://camo.githubusercontent.com/ba8af7adf235d37de1a3071730eaf0ad15fd1fc665734b660e687901c066a98c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f676974687562616374696f6e732f676974687562616374696f6e732d6f726967696e616c2e737667" height="30" alt="CI/CD logo" />
 </div>
 
 ### 💾 Bancos de Dados:
