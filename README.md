@@ -1,8 +1,8 @@
-## Lázaro Vasconcelos
-### Desenvolvedor de Software | Desenvolvedor Web | Analista de Sistemas
-- Desenvolvimento Frontend
-- Desenvolvimento Backend
-- Analista de Sistemas
+<h1 align="center">Hello, I'm Lázaro Vasconcelos 👋</h1>
+
+<p align="center">
+  <em>Desenvolvedor FullStack Pleno</em>
+</p>
 
 <p align="center">
   <img src="https://github.com/lazaaro01/lazaaro01/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
