@@ -8,9 +8,6 @@
   <img src="https://github.com/lazaaro01/lazaaro01/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
-
 ---
 ## 👾 Minhas Stacks:
 Tecnologias que já experenciei:
