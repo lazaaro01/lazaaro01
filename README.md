@@ -10,7 +10,6 @@
 
 ---
 ## 👾 Minhas Stacks:
-### Tecnologias que já experenciei:
 
 ### 🌐 Frontend:
 <div align="left">
