@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lázaro Vasconcelos 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor FullStack Pleno</em>
+  <em>Desenvolvedor FullStack</em>
 </p>
 
 <p align="center">
