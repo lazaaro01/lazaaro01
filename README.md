@@ -5,9 +5,7 @@
 
 ### Minha Trajetória
 
-Ao longo da minha jornada, combinei tecnologia, inovação e impacto social de diversas formas. Algumas das experiências que marcaram minha trajetória incluem:
-
-- **Professor de Informática**: Participei de um projeto patrocinado pela **Solar Coca-Cola**, capacitando jovens e adultos em inclusão digital e no uso de ferramentas tecnológicas.  
+Ao longo da minha jornada, combinei tecnologia, inovação e impacto social de diversas formas. Algumas das experiências que marcaram minha trajetória incluem: 
 - **Desenvolvedor de Jogo Interativo**: Criei um jogo para o primeiro parque temático de capivaras do mundo, apresentado em eventos e exposições por todo o Brasil.  
 - **Colaborador da Claro**: Trabalhei no desenvolvimento de soluções digitais e experiências tecnológicas, colaborando com uma equipe terceirizada.  
 - **Participação em Startups**: Colaborei em projetos de startups apoiadas pelo **Sebrae** e outras iniciativas inovadoras.
