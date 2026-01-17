@@ -1,5 +1,5 @@
 # Lázaro Vasconcelos  
-**Fullstack e Mobile Developer** com mais de 2 anos de experiência, especializado em backend com TypeScript. Hoje, atuo como **Tech Lead**, liderando uma equipe e guiando o desenvolvimento de soluções tecnológicas que impactam diretamente o mercado e as pessoas.
+**Fullstack e Mobile Developer** com mais de 3 anos de experiência, especializado em backend com TypeScript. Hoje, atuo como **Tech Lead**, liderando uma equipe e guiando o desenvolvimento de soluções tecnológicas que impactam diretamente o mercado e as pessoas.
 
 ---
 
