@@ -1,5 +1,5 @@
 # Lázaro Vasconcelos  
-**Fullstack e Mobile Developer** com mais de 3 anos de experiência, especializado em backend com TypeScript. Hoje, atuo como **Tech Lead**, liderando uma equipe e guiando o desenvolvimento de soluções tecnológicas que impactam diretamente o mercado e as pessoas.
+**Desenvolvedor Fullstack** com mais de 3 anos de experiência, especializado em backend com TypeScript, atuando no desenvolvimento de soluções escaláveis e de alto impacto.
 
 ---
 
@@ -14,4 +14,4 @@ Ao longo da minha jornada, combinei tecnologia, inovação e impacto social de d
 
 ### Tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,next,dart,flutter,go,postgresql,mongodb,redis,prisma,docker,aws,terraform,graphql,bun)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,next,go,dart,flutter,postgresql,mongodb,redis,prisma,docker,aws,terraform,graphql)](https://skillicons.dev)
