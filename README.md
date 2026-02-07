@@ -14,4 +14,4 @@ Ao longo da minha jornada, combinei tecnologia, inovação e impacto social de d
 
 ### Tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,next,go,dart,flutter,postgresql,mongodb,redis,prisma,docker,aws,terraform,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,spring,react,next,go,dart,flutter,postgresql,mongodb,redis,prisma,docker,aws,terraform,graphql)](https://skillicons.dev)
