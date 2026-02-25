@@ -1,17 +1,59 @@
-# Lázaro Vasconcelos  
-**Desenvolvedor Fullstack** com mais de 3 anos de experiência, especializado em backend com TypeScript, atuando no desenvolvimento de soluções escaláveis e de alto impacto.
+# 👋 Olá, eu sou o Lázaro Vasconcelos  
+
+💻 **Full Stack Developer**  
+🚀 Focado em backend com TypeScript, arquitetura escalável e boas práticas  
+
+Sempre fui movido pela curiosidade de entender como as coisas funcionam. Hoje transformo isso em código, APIs bem estruturadas e aplicações que resolvem problemas reais.
+
+Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando desde a modelagem de banco de dados até a construção de interfaces modernas e performáticas. Meu foco está em criar sistemas organizados, escaláveis e sustentáveis a longo prazo.
 
 ---
 
-### Minha Trajetória
+## 🧠 Sobre mim
 
-Ao longo da minha jornada, combinei tecnologia, inovação e impacto social de diversas formas. Algumas das experiências que marcaram minha trajetória incluem: 
-- **Desenvolvedor de Jogo Interativo**: Criei um jogo para o primeiro parque temático de capivaras do mundo, apresentado em eventos e exposições por todo o Brasil.  
-- **Colaborador da Claro**: Trabalhei no desenvolvimento de soluções digitais e experiências tecnológicas, colaborando com uma equipe terceirizada.  
-- **Participação em Startups**: Colaborei em projetos de startups apoiadas pelo **Sebrae** e outras iniciativas inovadoras.
+- 🔧 Desenvolvimento de **APIs REST** e microsserviços  
+- ⚙️ Arquitetura orientada a boas práticas (Clean Code, SOLID)  
+- 🗄️ Modelagem e otimização de banco de dados relacional  
+- 🐳 Containerização com Docker  
+- ☁️ Deploy e infraestrutura em AWS  
+- 🔄 Integração entre sistemas e CI/CD  
+
+🎓 Graduando em Análise e Desenvolvimento de Sistemas  
+📈 Evolução contínua em arquitetura de software e sistemas distribuídos  
 
 ---
 
-### Tecnologias que uso
+## 🚀 Stack Principal
+
+### 💻 Backend
+TypeScript • Node.js • Java • Spring Boot  
+
+### 🎨 Frontend
+React • TypeScript • JavaScript • HTML • CSS  
+
+### 🗄️ Banco de Dados
+PostgreSQL  
+
+### ☁️ DevOps & Infra
+Docker • AWS • CI/CD  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,spring,react,next,go,dart,flutter,postgresql,mongodb,redis,prisma,docker,aws,terraform)](https://skillicons.dev)
+
+---
+
+## 📌 O que você vai encontrar aqui
+
+- Projetos focados em backend escalável  
+- Integrações entre sistemas  
+- Aplicações fullstack  
+- Estudos sobre arquitetura e boas práticas  
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a novas oportunidades, projetos desafiadores e networking na área de tecnologia.
