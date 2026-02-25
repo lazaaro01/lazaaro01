@@ -23,22 +23,6 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 
 ---
 
-## 🚀 Stack Principal
-
-### 💻 Backend
-TypeScript • Node.js • Java • Spring Boot  
-
-### 🎨 Frontend
-React • TypeScript • JavaScript • HTML • CSS  
-
-### 🗄️ Banco de Dados
-PostgreSQL  
-
-### ☁️ DevOps & Infra
-Docker • AWS • CI/CD  
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,spring,react,next,go,dart,flutter,postgresql,mongodb,redis,prisma,docker,aws,terraform)](https://skillicons.dev)
