@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lázaro Vasconcelos  
 
-💻 **Full Stack Developer**  
+💻 **Desenvolvedor Full Stack**  
 🚀 Focado em backend com TypeScript, arquitetura escalável e boas práticas  
 
 Sempre fui movido pela curiosidade de entender como as coisas funcionam. Hoje transformo isso em código, APIs bem estruturadas e aplicações que resolvem problemas reais.
