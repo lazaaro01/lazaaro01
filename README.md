@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Lázaro Vasconcelos  
+# 👋 Engenheiro de Software
 
-💻 **Desenvolvedor Full Stack**  
-🚀 Focado em backend com TypeScript, arquitetura escalável e boas práticas  
+Focado em backend, arquitetura escalável e boas práticas de engenharia de software  
+Com experiência full stack, atuando em projetos end-to-end
 
-Sempre fui movido pela curiosidade de entender como as coisas funcionam. Hoje transformo isso em código, APIs bem estruturadas e aplicações que resolvem problemas reais.
+Sempre fui movido pela curiosidade de entender como os sistemas funcionam. Hoje transformo isso em código, APIs bem estruturadas e aplicações organizadas que resolvem problemas reais.
 
-Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando desde a modelagem de banco de dados até a construção de interfaces modernas e performáticas. Meu foco está em criar sistemas organizados, escaláveis e sustentáveis a longo prazo.
+Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando desde a modelagem de bancos de dados e design de arquitetura, até a construção de interfaces modernas e performáticas. Meu foco está em criar sistemas escaláveis, sustentáveis e de fácil manutenção a longo prazo.
 
 ---
 
@@ -13,13 +13,13 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 
 - 🔧 Desenvolvimento de **APIs REST** e microsserviços  
 - ⚙️ Arquitetura orientada a boas práticas (Clean Code, SOLID)  
-- 🗄️ Modelagem e otimização de banco de dados relacional  
+- 🗄️ Modelagem e otimização de bancos de dados relacionais  
 - 🐳 Containerização com Docker  
 - ☁️ Deploy e infraestrutura em AWS  
-- 🔄 Integração entre sistemas e CI/CD  
+- 🔄 Integração entre sistemas e pipelines CI/CD  
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-📈 Evolução contínua em arquitetura de software e sistemas distribuídos  
+📈 Evolução contínua em arquitetura de software, observabilidade e sistemas distribuídos  
 
 ---
 
@@ -32,9 +32,9 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 ## 📌 O que você vai encontrar aqui
 
 - Projetos focados em backend escalável  
-- Integrações entre sistemas  
-- Aplicações fullstack  
-- Estudos sobre arquitetura e boas práticas  
+- Integrações entre sistemas e APIs bem estruturadas  
+- Aplicações fullstack organizadas e sustentáveis  
+- Estudos sobre arquitetura, boas práticas e engenharia de software  
 
 ---
 
