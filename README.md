@@ -1,7 +1,7 @@
 # 👋 Engenheiro de Software
 
 Focado em backend, arquitetura escalável e boas práticas de engenharia de software  
-Com experiência full stack, atuando em projetos end-to-end
+Com experiência Full Stack, atuando em projetos end-to-end
 
 Sempre fui movido pela curiosidade de entender como os sistemas funcionam. Hoje transformo isso em código, APIs bem estruturadas e aplicações organizadas que resolvem problemas reais.
 
