@@ -1,4 +1,4 @@
-# 👋 Engenheiro de Software
+# 👋 Desenvolvedor Full Stack
 
 Focado em backend, arquitetura escalável e boas práticas de engenharia de software  
 Com experiência Full Stack, atuando em projetos end-to-end
