@@ -25,7 +25,7 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,spring,react,next,go,postgresql,prisma,mongodb,redis,nginx,docker,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,spring,react,next,go,postgresql,prisma,mongodb,redis,docker,aws,terraform,grafana)](https://skillicons.dev)
 
 ---
 
