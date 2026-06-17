@@ -35,7 +35,14 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 - Projetos focados em backend escalável  
 - Integrações entre sistemas e APIs bem estruturadas  
 - Aplicações fullstack organizadas e sustentáveis  
-- Estudos sobre arquitetura, boas práticas e engenharia de software  
+- Estudos sobre arquitetura, boas práticas e engenharia de software
+  
+## 📝 Artigos & Conteúdo
+
+[![Medium](https://img.shields.io/badge/Medium-Artigo-black?logo=medium)](https://medium.com/@lazaro13.vascon/como-tomar-decis%C3%B5es-de-arquitetura-de-software-em-equipe-d46f00d8f949)
+
+**Como tomar decisões de arquitetura de software em equipe**  
+Reflexões sobre colaboração, alinhamento técnico e tomada de decisões arquiteturais em times de desenvolvimento.
 
 ---
 
