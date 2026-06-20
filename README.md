@@ -11,12 +11,12 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 
 ## 🧠 Sobre mim
 
-- 🔧 Desenvolvimento de **APIs REST** e microsserviços  
-- ⚙️ Arquitetura orientada a boas práticas (Clean Code, SOLID)  
-- 🗄️ Modelagem e otimização de bancos de dados relacionais  
-- 🐳 Containerização com Docker  
-- ☁️ Deploy e infraestrutura em AWS  
-- 🔄 Integração entre sistemas e pipelines CI/CD  
+- Desenvolvimento de **APIs REST** e microsserviços
+- Arquitetura orientada a boas práticas (Clean Code, SOLID)
+- Modelagem e otimização de bancos de dados relacionais
+- Containerização com Docker
+- Deploy e infraestrutura em AWS
+- Integração entre sistemas e pipelines CI/CD  
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas    
 🏅 GitHub Developer Program Member   
