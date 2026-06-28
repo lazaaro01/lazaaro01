@@ -19,7 +19,6 @@ Tenho experiência no desenvolvimento de aplicações web end-to-end, atuando de
 - Integração entre sistemas e pipelines CI/CD  
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas    
-🏅 GitHub Developer Program Member   
 📈 Evolução contínua em arquitetura de software, observabilidade e sistemas distribuídos  
 
 ---
